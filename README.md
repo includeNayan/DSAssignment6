@@ -1,1 +1,1 @@
-# DSAssignment6
+All solutions of Assignment 6 
